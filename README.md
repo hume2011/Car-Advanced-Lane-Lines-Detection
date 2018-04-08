@@ -1,6 +1,6 @@
 
 
-**Advanced Lane Finding Project**
+# Advanced Lane Finding
 
 The steps of this project are the following:
 
